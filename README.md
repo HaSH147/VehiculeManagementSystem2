@@ -1,7 +1,7 @@
 # VehiculeManagementSystem2
-## Sign in et Sign Up 1st Application Screen
+## Interface de connexion et d'Authentification
 ###### The smallest heading
-<img src="https://user-images.githubusercontent.com/63333684/117737298-1a335480-b1e9-11eb-9262-405dee94c10d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="499" />
+<img src="https://user-images.githubusercontent.com/63333684/117737298-1a335480-b1e9-11eb-9262-405dee94c10d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
 
 <img src="https://user-images.githubusercontent.com/63333684/117737322-27e8da00-b1e9-11eb-8711-17d03ead5343.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="350" height="499" />
 
