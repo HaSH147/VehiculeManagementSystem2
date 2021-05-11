@@ -1,4 +1,6 @@
-# VehiculeManagementSystem2
+# VehiculeManagementSystem
+# Application Mobile de gestion de Véhicules :
+##### Technolgies Utilisées : React Native, Node JS et PostgreSQL
 ## Interface de connexion et d'Authentification
 <img src="https://user-images.githubusercontent.com/63333684/117737298-1a335480-b1e9-11eb-9262-405dee94c10d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
 
@@ -33,5 +35,5 @@
 
 <img src="https://user-images.githubusercontent.com/63333684/117737463-7c8c5500-b1e9-11eb-8cf7-b6754ba308ea.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
 
-Pour voir le fonctionnement de l'application veuillez voir la vidéo : DemVideoApplication dans la section fichiers .
+# Pour voir le fonctionnement de l'application veuillez voir la vidéo : DemVideoApplication dans la section fichiers .
 
