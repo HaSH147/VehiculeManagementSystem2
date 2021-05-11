@@ -1,6 +1,5 @@
 # VehiculeManagementSystem2
 ## Interface de connexion et d'Authentification
-###### The smallest heading
 <img src="https://user-images.githubusercontent.com/63333684/117737298-1a335480-b1e9-11eb-9262-405dee94c10d.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
 
 ## Interfaces de Récuperation des mots de passe oubliés 
