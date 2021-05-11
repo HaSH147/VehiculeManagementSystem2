@@ -8,7 +8,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/63333684/117737600-b4939800-b1e9-11eb-9b40-913198bd35d4.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="1650" />
+<img src="https://user-images.githubusercontent.com/63333684/117737600-b4939800-b1e9-11eb-9b40-913198bd35d4.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="1650" height="550" />
 
 <img src="https://user-images.githubusercontent.com/63333684/117737360-40f18b00-b1e9-11eb-9e6e-c4951ab52475.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
 
