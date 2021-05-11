@@ -25,12 +25,12 @@
 <img src="https://user-images.githubusercontent.com/63333684/117737437-6ed6cf80-b1e9-11eb-8873-68acf59e77d2.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" /><img src="https://user-images.githubusercontent.com/63333684/117737447-7302ed00-b1e9-11eb-998c-b680d6efb62c.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
 
 
+## Réservation: Choix du véhicule concerné, type d'intervention souhaitée et date souhaitée 
+
+<img src="https://user-images.githubusercontent.com/63333684/117737493-8b730780-b1e9-11eb-9b96-7aa5057e94f5.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" /><img src="https://user-images.githubusercontent.com/63333684/117737502-8f9f2500-b1e9-11eb-862c-884be422e0a9.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" /><img src="https://user-images.githubusercontent.com/63333684/117737514-94fc6f80-b1e9-11eb-8c9c-04bebbfd0d85.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
+
+
+## Gestion des promotions : visualisation des offres détaillés propres aux meme types de véhicules du client et des offres concernant d'autres types de véhicules
 
 <img src="https://user-images.githubusercontent.com/63333684/117737463-7c8c5500-b1e9-11eb-8cf7-b6754ba308ea.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
-
-<img src="https://user-images.githubusercontent.com/63333684/117737493-8b730780-b1e9-11eb-9b96-7aa5057e94f5.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
-
-<img src="https://user-images.githubusercontent.com/63333684/117737502-8f9f2500-b1e9-11eb-862c-884be422e0a9.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
-
-<img src="https://user-images.githubusercontent.com/63333684/117737514-94fc6f80-b1e9-11eb-8c9c-04bebbfd0d85.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="550" />
 
